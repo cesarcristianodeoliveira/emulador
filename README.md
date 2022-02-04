@@ -15,3 +15,4 @@ Os jogos não vem inclusos!<br>
 2 - Digite sanity start e acesse http://localhost:3333<br>
 3 - Escolha a Usuário que deseja ser administrador<br>
 4 - Faça o login novamente no http://localhost:3000
+5 - Logado como Administrador, na barra de navegação clique no botão com ícone +
