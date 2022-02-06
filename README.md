@@ -16,3 +16,10 @@ Os jogos não vem inclusos!<br>
 3 - Escolha a Usuário que deseja ser administrador<br>
 4 - Faça o login novamente no http://localhost:3000
 5 - Logado como Administrador, na barra de navegação clique no botão com ícone +
+
+# Créditos
+
+1 - Jesus Cristo<br>
+2 - Minha mãe<br>
+3 - Ethan que é o responsável pelo script de emulação - https://github.com/ethanaobrien/emulatorjs<br>
+4 - E ao grupo React JS Brasil https://www.facebook.com/groups/reactjsbrasil
