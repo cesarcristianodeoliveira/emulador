@@ -6,11 +6,11 @@ Demo: https://emulador.netlify.app
 # Instalar
 1 - Crie uma conta grátis no https://sanity.io/ que é o servidor backend.<br>
 2 - Crie uma Google API em https://console.cloud.google.com/<br>
-3 - Digite npm start no terminal
+3 - Abra seu terminal e diretório do projeto na pasta "client" e digite npm start no terminal
 
 # Adicionar jogos
 
-Os jogos não vem inclusos!<br>
+Os jogos não estão inclusos!<br>
 1 - Acesse a pasta server através do seu terminal<br>
 2 - Digite sanity start e acesse http://localhost:3333<br>
 3 - Escolha a Usuário que deseja ser administrador<br>
